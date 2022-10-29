@@ -16,7 +16,7 @@ L'objectif de ce workshop est de transmettre aux participants les bases et les b
 1. Télécharger Visual Studio 2022 https://visualstudio.microsoft.com/fr/downloads/ (si vous avez Visual Studio 2019 il n’est pas nécessaire d’installer VS 2022)
 2. Attendre la fin de l’installation de VS, car il sera nécessaire dans les prochaines étapes.
 3. Une fois VS installé, télécharger le Unity Hub https://unity3d.com/get-unity/download
-4. Une fois le Hub installé, il faut l’ouvrir et aller dans l’onglet `installs`, puis cliquer sur le bouton `install editor` et installer la version 2021.3.11f1 LTS de Unity (soit la dernière version LTS disponible)
+4. Une fois le Hub installé, il faut l’ouvrir et aller dans l’onglet `installs`, puis cliquer sur le bouton `install editor` et installer la version `LTS` la plus récente (au moment de la rédaction de ce document il s'agit de la version `2021.3.12f1` LTS, mais toute autre version LTS `2021.x.x` fera l'affaire).
 5. Une fois Unity installé, ouvrir l’onglet `Projects` et cliquer sur `new project`.
 6. Sélectionner la bonne version de Unity (Editor Version) et sélectionner `2D (URP)`.
 7. Donner un nom au projet `UPsiJam_WorkshopUnity` ou tout autre nom et cliquer sur `Create project`.
