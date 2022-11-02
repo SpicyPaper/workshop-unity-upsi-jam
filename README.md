@@ -23,3 +23,12 @@ L'objectif de ce workshop est de transmettre aux participants les bases et les b
 8. Attendre que le projet Unity s’ouvre, cela peut prendre plusieurs minutes dépendant du PC.
 9. Une fois le projet ouvert, il faut paramétrer Unity pour utiliser VS comme IDE. Pour ce faire aller dans `Edit/Preferences/External Tools` et dans le champ `External Script Editor`, sélectionner la version de VS qui a été installée.
 10. Si aucune erreur n’est survenue durant ce processus c’est que vous êtes prêt à suivre le workshop. Sinon essayez de résoudre le problème et si vous ne trouvez pas de solution par vous-même, contactez-moi au moins 24h avant l’événement, car il ne sera pas possible d’aider les gens le jour même.
+
+# Erreurs courantes
+
+## Une erreur survient au moment de la création d'un nouveau projet
+
+Cela peut provenir de beaucoup de choses, mais il est possible que cela soit dû à un autre programme qui empêche Unity de fonctionner correctement.  
+J'ai personnellement déjà eu le problème avec PowerToys, il suffit de terminer le processus et de tenter à nouveau de créer un projet Unity, cela devrait fonctionner.  
+D'autres programmes pourraient être la cause de ce problème, essayez de terminer le processus des autres programmes qui tournent en tâche de fond et des autres programmes dont vous n'avez pas besoin à la création d'un projet Unity.  
+Si cela ne résoud pas le problème, cela pourrait provenir d'autre chose, essayez de copier coller l'erreur dans Google.
